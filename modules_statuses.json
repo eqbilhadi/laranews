@@ -1,4 +1,5 @@
 {
     "Authentication": true,
-    "Rbac": true
+    "Rbac": true,
+    "Master": true
 }
